@@ -22,7 +22,7 @@
         <version>3.0.0-M5</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>C:\Users\Vinod Khandekar\Desktop\Workspace\FirstGitJrnProj\testng.xml</suiteXmlFile>
+            <suiteXmlFile>C:\Users\Vinod Khandekar\git\FirstGitJrnProj\FirstGitJrnProj\testng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
